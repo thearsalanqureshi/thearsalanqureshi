@@ -1,4 +1,4 @@
-# Hi, I’m Arsalan 👋
+# Hi, I’m Muhammad Akmal 👋
 ## Flutter Developer | Full-Stack Visionary  
  I specialize in building stunning mobile apps using Flutter.  
 📌 Check out my work: 
