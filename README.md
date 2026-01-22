@@ -1,6 +1,6 @@
 # Hi, I’m Arsalan Qureshi 👋
 ## Flutter Developer | Full-Stack Visionary  
- I specialize in building stunning mobile apps using Flutter.  
+ Specialized in building user friendly mobile experiences using Flutter.  
 
 # Featured Projects
 1. Plant Identifier | AI Powered Plant Recognition App
