@@ -1,4 +1,4 @@
-# Hi, I’m Arsalan Qureshi 👋
+# Hi, I’m Arsalan 👋
 ## Flutter Developer | Full-Stack Visionary  
  Specialized in building user friendly mobile experiences using Flutter.  
 
